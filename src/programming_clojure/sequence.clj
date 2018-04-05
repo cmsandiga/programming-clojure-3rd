@@ -31,7 +31,7 @@
   )
 
 (defn repeat-test []
-    (println (repeat 20 "20"))
+    (repeat 5 "x")
   )
 (defn -main []
   (println (myfun))
